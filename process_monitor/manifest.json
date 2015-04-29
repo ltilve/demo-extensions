@@ -16,8 +16,7 @@
 
   "permissions": [
     "tabs",
-    "processes",
-    "activeTab"
+    "processes"
   ]
 
 }

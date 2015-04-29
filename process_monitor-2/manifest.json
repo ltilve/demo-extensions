@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Process Monitor 2",
   "version": "1.2",
-  "description": "Adds a browser action that monitors resource usage of all browser processes.",
+  "description": "Adds a browser action that monitors resource usage of all browser processes 2.",
 
   "background": {
     "scripts": ["background.js"]
@@ -16,8 +16,7 @@
 
   "permissions": [
     "tabs",
-    "processes",
-    "activeTab"
+    "processes"
   ]
 
 }
