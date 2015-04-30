@@ -1,5 +1,5 @@
 var matchURL = "extensions";
-var popupTimeout = 4000;
+var popupTimeout = 0;
 
 
 function initialize(tab) {
